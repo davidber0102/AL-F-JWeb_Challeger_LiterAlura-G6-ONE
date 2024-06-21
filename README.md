@@ -8,7 +8,12 @@
 Descpricion: 
 Liter-Alura  surge como aplicación Java/Spring Boot para la busqueda y almacenamiento de los libros mediante tecnologias de API. De maner general, la aplicacion en Linea de Comandos
 se puede interactuar con libros y algunas caracteristicas.
-
+ <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+  
+![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
+![Maven Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
+   </p>
 ## Menu de Metodos
 1. **Buscar libro por titulo**: Consulta el API  Gutendex para la busqueda de Libros.
 2. **Listar libros registrados**: Muesta en pantala los libros buscados en el paso anterior y almacenados en la BBDD.
